@@ -1,5 +1,0 @@
-Web-ohjelmointi, palautettava harjoitus 7
-Riikka Naamanka, TIK24KM
-23.9.2024
-
-https://github.com/riikkana/web-harjoitus5
